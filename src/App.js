@@ -3,7 +3,7 @@ console.log(Todo)
 function App() {
   return (
     <div className="App" style={{ padding: '20px' }}>
-      <Todo/>
+      <Todo />
     </div>
   );
 }
